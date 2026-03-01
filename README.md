@@ -4,9 +4,10 @@
 - 💞️ 我希望在计算机和AI领域有所建树，以及.....白嫖IntelliJ IDEA和Jetbrains全家桶
 - 📫 联系我请至邮箱2592718594@qq.com或QQ：2592718594，bilbil上也可以找到我，@蓝火丶狐
 
-![](https://raw.githubusercontent.com/bulefire-fox/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/bulefire-fox/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
+<a href="https://github.com/codeboyzhou/github-stats">
+  <img src="https://github.com/bulefire-fox/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only"/>
+  <img src="https://github.com/bulefire-fox/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only"/>
+</a>
 <!---
 bulrfire/bulrfire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
